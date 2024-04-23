@@ -10,10 +10,10 @@ import java.io.*;
  *
  * @author ACER
  */
-public class RegisteredUser {
+public class RegisteredUserrrrs {
     private List<User> userList;
 
-    public RegisteredUser() {
+    public RegisteredUserrrrs() {
         userList = new ArrayList<>();
     }
 
